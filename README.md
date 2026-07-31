@@ -33,8 +33,11 @@
 ### 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikbhatti99&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=1f2430" alt="Pratik's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikbhatti99&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f2430" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pratikbhatti99&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=1f2430" alt="Pratik's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikbhatti99&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f2430" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -42,5 +45,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikbhatti99&theme=tokyonight" alt="pratikbhatti99 trophies" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=pratikbhatti99&theme=tokyonight" alt="pratikbhatti99 trophies" />
 </p>
