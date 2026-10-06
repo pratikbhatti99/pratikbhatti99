@@ -1,8 +1,4 @@
-<!-- ============================================================
-  PROFILE README for Pratik Bhatti
-  ONLY ONE THING TO CHANGE: replace YOUR_USERNAME with your
-  GitHub username (Find & Replace, all occurrences).
-============================================================ -->
+<!-- Profile README for Pratik Bhatti -->
 
 <!-- Animated header banner -->
 <div align="center">
@@ -19,9 +15,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&logo=github" alt="followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat&logo=github" alt="stars" />
+  <a href="https://github.com/pratikbhatti99?tab=followers"><img src="https://img.shields.io/github/followers/pratikbhatti99?label=Followers&style=for-the-badge&logo=github&color=2c5364" alt="followers" /></a>
+  <img src="https://img.shields.io/badge/Experience-Senior_Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="experience" />
+  <img src="https://img.shields.io/badge/Open_to-Opportunities-3DDC84?style=for-the-badge" alt="open to opportunities" />
 </div>
 
 ---
@@ -73,20 +69,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 What I Do
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
-</div>
+| | |
+|---|---|
+| 📱 **Mobile Apps** | Production-ready Flutter apps for Android and iOS from a single codebase |
+| 🎨 **UI/UX** | Pixel-perfect, responsive interfaces with Material and Cupertino widgets |
+| ⚙️ **Native and Performance** | Platform channels, native Android/iOS integration, and C/C++ when needed |
+| 🧱 **Architecture** | Clean, scalable, and maintainable code with reusable components |
 
 ---
 
