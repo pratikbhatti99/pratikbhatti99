@@ -80,16 +80,6 @@
 
 ---
 
-## 📅 Contribution Graph
-
-<div align="center">
-  <a href="https://github.com/pratikbhatti99">
-    <img src="https://ghchart.rshah.org/2ea043/pratikbhatti99" alt="Pratik Bhatti's GitHub contribution graph" width="100%" />
-  </a>
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
